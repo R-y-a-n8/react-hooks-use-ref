@@ -14,5 +14,4 @@ function CounterState() {
     </div>
   );
 }
-
 export default CounterState;
